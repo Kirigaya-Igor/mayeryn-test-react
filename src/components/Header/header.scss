@@ -1,0 +1,49 @@
+.header {
+  margin: 0;
+  background-color: #1A1A1A;
+  min-height: 50px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+
+  .headerTitle {
+    padding: 15px 20px;
+
+    &:hover {
+      color: deeppink;
+    }
+  }
+
+  .customLink {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    text-transform: uppercase;
+
+    &:hover {
+      color: cyan;
+    }
+
+    &.active {
+      color: cyan;
+    }
+  }
+
+  .userData {
+    display: flex;
+    align-items: center;
+
+    .item {
+      padding: 10px 15px;
+    }
+  }
+
+  .clearButton {
+    color: deeppink;
+    min-width: 75px;
+    min-height: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: #2D2D2D;
+  }
+}
