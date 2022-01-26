@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mayeryn-test-react/static/css/main.280db975.chunk.css",
+    "main.js": "/mayeryn-test-react/static/js/main.a9640064.chunk.js",
+    "main.js.map": "/mayeryn-test-react/static/js/main.a9640064.chunk.js.map",
+    "runtime-main.js": "/mayeryn-test-react/static/js/runtime-main.7333a373.js",
+    "runtime-main.js.map": "/mayeryn-test-react/static/js/runtime-main.7333a373.js.map",
+    "static/js/2.692216fc.chunk.js": "/mayeryn-test-react/static/js/2.692216fc.chunk.js",
+    "static/js/2.692216fc.chunk.js.map": "/mayeryn-test-react/static/js/2.692216fc.chunk.js.map",
+    "index.html": "/mayeryn-test-react/index.html",
+    "static/css/main.280db975.chunk.css.map": "/mayeryn-test-react/static/css/main.280db975.chunk.css.map",
+    "static/js/2.692216fc.chunk.js.LICENSE.txt": "/mayeryn-test-react/static/js/2.692216fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7333a373.js",
+    "static/js/2.692216fc.chunk.js",
+    "static/css/main.280db975.chunk.css",
+    "static/js/main.a9640064.chunk.js"
+  ]
+}
